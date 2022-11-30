@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(49, 55, 85);
+  padding-top: 20px;;
+}
+
+#app {
+  position: relative;
+  width: fit-content;
+  margin: auto;
+}
